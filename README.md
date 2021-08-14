@@ -9,7 +9,7 @@ A computer scientist who wants to start a career in Data Science, since I've bee
 
 * Graduated in Computer Science since 2020;
 
-* My analytical tools are: R Language, Python Language, SQL, Microsoft Power BI, Azure Machine Learning, Apache Spark, Statistics, Relational Databases and NoSQL;
+* My analytical tools are: R Language, Python Language, SQL, Microsoft Power BI, Azure Machine Learning, Apache Spark, Statistics, Microsoft Excel (and Google Sheet), Relational Databases and NoSQL;
 
 * I have skills in: HTML, CSS, Git and Github, C and Java;
 
