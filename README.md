@@ -1,6 +1,6 @@
 ## Hi there, I'm Matheus Andrade 👋
 
-A computer scientist who wants to start a career in Data Science, since I've been preparing for this for a while.
+A computer scientist who wants to start a career in Data Science, I've been preparing for this for a while.
 
 
 
