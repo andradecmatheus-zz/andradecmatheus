@@ -28,5 +28,5 @@ A computer scientist who wants to start a career in Data Science, I've been prep
 
 ## :mailbox_with_no_mail: Contact:
 
-<a href="https://www.linkedin.com/in/andradecmatheus" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/andradecmatheus/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://andradecmatheus.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-0FAAFF.svg?&style=flat-square&logo=BookStack&logoColor=white" alt="My Portfolio"></a>
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/andradecmatheus/){:target="_blank"} [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/andradecmatheus/){:target="_blank"} [<img src="https://img.shields.io/badge/My%20Portfolio-0FAAFF.svg?&style=flat-square&logo=BookStack&logoColor=white" alt="My Portfolio">](https://www.instagram.com/andradecmatheus/){:target="_blank"}
 
